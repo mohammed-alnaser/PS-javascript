@@ -1,5 +1,6 @@
 /*
-Write a trapRainWater function that calculates the amount of water that can be held between columns in an array representing the heights of the columns.
+Write a trapRainWater function that calculates the amount of water 
+that can be held between columns in an array representing the heights of the columns.
 
 Input:
 heights: An array containing non-negative integers representing the heights of the columns.
